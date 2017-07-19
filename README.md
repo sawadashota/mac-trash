@@ -1,4 +1,4 @@
-# Mac Util
+# Mac Trash Command
 
 ## Make it command
 ```bash
